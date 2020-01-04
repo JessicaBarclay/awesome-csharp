@@ -19,3 +19,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 </div>
 
 ## Contents
+
+- [Books](#books)
+- [Documentation](#documentation)
