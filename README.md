@@ -17,3 +17,5 @@ A curated list of awesome [C#](https://github.com/dotnet/csharplang) tutorials, 
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core), [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) and [awesome](https://github.com/sindresorhus/awesome).
 </div>
+
+## Contents
