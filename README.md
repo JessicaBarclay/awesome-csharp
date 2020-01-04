@@ -9,3 +9,11 @@
     </a>
 </p>
 <br/>
+<div align="center">
+
+A curated list of awesome [C#](https://github.com/dotnet/csharplang) tutorials, libraries and resources.
+
+> C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language.
+
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core), [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) and [awesome](https://github.com/sindresorhus/awesome).
+</div>
