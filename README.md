@@ -26,3 +26,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Libraries](#Libraries)
 - [Learn](#learn)
 - [Platforms](#platforms)
+
+## Books
