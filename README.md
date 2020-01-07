@@ -28,3 +28,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Platforms](#platforms)
 
 ## Books
+- [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
