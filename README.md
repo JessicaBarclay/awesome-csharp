@@ -34,3 +34,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
 ## Documentation
+- [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Official repository for C# language](https://github.com/dotnet/csharplang)
