@@ -29,3 +29,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 ## Books
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
+## Editors
+- [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE
+- [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
