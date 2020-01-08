@@ -33,3 +33,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+## Documentation
