@@ -38,3 +38,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
 ## Libraries
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
