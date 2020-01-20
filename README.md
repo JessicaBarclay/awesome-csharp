@@ -39,3 +39,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
 ## Libraries
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Json.Net](https://www.newtonsoft.com/json)
