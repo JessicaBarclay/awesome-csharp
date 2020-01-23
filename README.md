@@ -41,3 +41,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Json.Net](https://www.newtonsoft.com/json)
 - [Workflow Core](https://github.com/danielgerlag/workflow-core) - A light weight embeddable workflow engine.
+- [CodeFormatter](https://github.com/dotnet/codeformatter) - A tool that uses Roslyn to automatically rewrite the source to follow our coding styles.
