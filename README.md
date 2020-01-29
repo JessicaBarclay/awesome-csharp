@@ -44,3 +44,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [CodeFormatter](https://github.com/dotnet/codeformatter) - A tool that uses Roslyn to automatically rewrite the source to follow our coding styles.
 - [try-convert](https://github.com/dotnet/try-convert) - This is a simple tool that will help in migrating .NET Framework projects to .NET Core.
 - [InferSharp](https://github.com/microsoft/infersharp) - An interprocedural and scalable static code analyzer for C#.
+- [ConsoleTable](https://github.com/khalidabuhakmeh/ConsoleTables) - Have you ever just wanted to output flat structured POCO out to console? Sure you have!
