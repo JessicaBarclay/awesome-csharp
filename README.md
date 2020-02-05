@@ -46,4 +46,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [InferSharp](https://github.com/microsoft/infersharp) - An interprocedural and scalable static code analyzer for C#.
 - [ConsoleTable](https://github.com/khalidabuhakmeh/ConsoleTables) - Have you ever just wanted to output flat structured POCO out to console? Sure you have!
 - [Codez](https://github.com/khalidabuhakmeh/codez) - A library designed to help ease the process of generating codes for your end users that can be helpful for confirmation numbers, reservation systems, error codes, and more.
-- [Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner library for .NET Core/Standard. 
+- [Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner library for .NET Core/Standard.
+- [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
