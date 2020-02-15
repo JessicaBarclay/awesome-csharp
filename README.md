@@ -49,3 +49,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner library for .NET Core/Standard.
 - [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events / messages over SNS (SNS / SQS as a message bus).
+## Learn
