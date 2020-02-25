@@ -53,3 +53,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
 - [Exercism C# Track](https://github.com/exercism/csharp)
 - [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
+- [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
