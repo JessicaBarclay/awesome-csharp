@@ -57,3 +57,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 ## Platforms
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
     - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
+    - [.NET Runtime](https://github.com/dotnet/runtime/)
