@@ -60,3 +60,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
     - [.NET Runtime](https://github.com/dotnet/runtime/)
 - [.NET Core](https://github.com/thangchung/awesome-dotnet-core#readme)  
     - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
+- [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET Framework.
