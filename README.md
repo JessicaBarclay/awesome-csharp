@@ -29,14 +29,17 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 ## Books
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
+
 ## Editors
-- [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE
+- [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+
 ## Documentation
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
+
 ## Libraries
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Json.Net](https://www.newtonsoft.com/json)
@@ -49,11 +52,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner library for .NET Core/Standard.
 - [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events / messages over SNS (SNS / SQS as a message bus).
+
 ## Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
 - [Exercism C# Track](https://github.com/exercism/csharp)
 - [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
 - [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
+
 ## Platforms
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
     - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
