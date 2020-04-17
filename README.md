@@ -53,6 +53,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events / messages over SNS (SNS / SQS as a message bus).
 - [Scrutor](https://github.com/khellang/Scrutor)Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
 
 ## Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
