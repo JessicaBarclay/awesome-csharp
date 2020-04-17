@@ -54,6 +54,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events / messages over SNS (SNS / SQS as a message bus).
 - [Scrutor](https://github.com/khellang/Scrutor)Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
+- [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
 
 ## Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
