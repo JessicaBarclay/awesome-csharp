@@ -56,6 +56,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
 - [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
+- [Noda Time](https://github.com/nodatime/nodatime) - An alternative date and time API for .NET.
 
 ## Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
