@@ -40,6 +40,21 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
 
+## Learn
+- [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
+- [Exercism C# Track](https://github.com/exercism/csharp)
+- [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
+- [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
+- [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
+## Platforms
+- [.NET](https://github.com/quozd/awesome-dotnet#readme)
+    - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
+    - [.NET Runtime](https://github.com/dotnet/runtime/)
+- [.NET Core](https://github.com/thangchung/awesome-dotnet-core#readme)  
+    - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
+- [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET Framework.
+
 ## Libraries
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Json.Net](https://www.newtonsoft.com/json)
@@ -57,18 +72,3 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
 - [Noda Time](https://github.com/nodatime/nodatime) - An alternative date and time API for .NET.
-
-## Learn
-- [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
-- [Exercism C# Track](https://github.com/exercism/csharp)
-- [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
-- [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
-- [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
-
-## Platforms
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
-    - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
-    - [.NET Runtime](https://github.com/dotnet/runtime/)
-- [.NET Core](https://github.com/thangchung/awesome-dotnet-core#readme)  
-    - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
-- [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET Framework.
