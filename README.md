@@ -20,30 +20,27 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 ## Contents
 
-- [Books](#books)
 - [Documentation](#documentation)
 - [Editors](#editors)
-- [Libraries](#Libraries)
 - [Learn](#learn)
 - [Platforms](#platforms)
-
-## Books
-- [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
-
-## Editors
-- [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
-- [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+- [Libraries](#Libraries)
 
 ## Documentation
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
 
+## Editors
+- [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
+- [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+
 ## Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
 - [Exercism C# Track](https://github.com/exercism/csharp)
 - [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
+- [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
 - [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
