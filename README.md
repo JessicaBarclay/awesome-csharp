@@ -21,9 +21,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 ## Contents
 
 [Documentation](#documentation)
+<br/>
 [Editors](#editors)
+<br/>
 [Learn](#learn)
+<br/>
 [Platforms](#platforms)
+<br/>
 [Libraries](#Libraries)
 
 ### Documentation
