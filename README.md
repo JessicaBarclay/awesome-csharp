@@ -73,3 +73,4 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
 - [Noda Time](https://github.com/nodatime/nodatime) - An alternative date and time API for .NET.
+- [Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.
