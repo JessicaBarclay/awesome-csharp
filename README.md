@@ -74,3 +74,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
 - [Noda Time](https://github.com/nodatime/nodatime) - An alternative date and time API for .NET.
 - [Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.
+- [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - About
+Automated job scheduler with fluent interface for the .NET platform.
