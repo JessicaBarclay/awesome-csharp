@@ -84,3 +84,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Polly](https://github.com/App-vNext/Polly) - Express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 - [Coyote](https://github.com/microsoft/coyote) - A tool designed to help ensure that your C# code is free of annoying concurrency bugs.
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A general purpose application framework specially designed for new modern web applications.
+- [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper.
