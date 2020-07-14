@@ -86,3 +86,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A general purpose application framework specially designed for new modern web applications.
 - [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple .NET REST Client.
+- [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
