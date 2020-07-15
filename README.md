@@ -87,7 +87,8 @@ Framework.
 - [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events / messages over SNS (SNS / SQS as a message bus).
 - [Scrutor](https://github.com/khellang/Scrutor)Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
-- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
+- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - StackExchange.Redis is a high performance general purpose redis client for .NET languages.
+- [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - A simple, high-performance and feature-rich C# Client for Redis
 - [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
 - [ChilliCream GraphQL Platform](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .NET.
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
