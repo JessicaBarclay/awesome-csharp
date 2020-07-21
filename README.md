@@ -87,3 +87,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple .NET REST Client.
 - [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
+- [AWS SDK for .NET](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.
