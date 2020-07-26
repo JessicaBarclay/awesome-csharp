@@ -35,6 +35,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
+- [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
 
 ### Editors
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
