@@ -26,6 +26,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 <br/>
 [Learn](#learn)
 <br/>
+[Blogs](#blogs)
+<br/>
 [Platforms](#platforms)
 <br/>
 [Libraries](#Libraries)
@@ -49,6 +51,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
 - [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
+### Blogs
 
 ### Platforms
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
