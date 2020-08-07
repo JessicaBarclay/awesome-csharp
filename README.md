@@ -36,6 +36,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)dot-net/)
+    - [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+    - [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+    - [.NET 4.6.1 and Above](https://dotnet.microsoft.com/download/dotnet-framework)
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
 
 ### Editors
@@ -61,7 +64,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
     - [.NET Runtime](https://github.com/dotnet/runtime/)
 - [.NET Core](https://github.com/thangchung/awesome-dotnet-core#readme)  
     - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
-- [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET Framework.
+- [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET 
+Framework.
 
 ### Libraries
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
