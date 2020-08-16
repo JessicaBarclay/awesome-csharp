@@ -53,6 +53,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
 - [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+- [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
@@ -98,3 +99,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple .NET REST Client.
 - [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
 - [AWS SDK for .NET](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.
+- [ML.NET](https://github.com/dotnet/machinelearning) - Open source and cross-platform machine learning framework for .NET.
