@@ -100,4 +100,5 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
 - [AWS SDK for .NET](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.
 - [ML.NET](https://github.com/dotnet/machinelearning) - Open source and cross-platform machine learning framework for .NET.
-- [Orleans](https://github.com/dotnet/orleans) - cross-platform framework for building distributed applications with .NET.
+- [Orleans](https://github.com/dotnet/orleans) - Cross-platform framework for building distributed applications with .NET.
+- [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.
