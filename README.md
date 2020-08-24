@@ -103,3 +103,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Orleans](https://github.com/dotnet/orleans) - Cross-platform framework for building distributed applications with .NET.
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.
 - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments.
