@@ -104,3 +104,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.
 - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments.
+- [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
