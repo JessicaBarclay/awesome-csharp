@@ -40,6 +40,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
     - [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
     - [.NET 4.6.1 and Above](https://dotnet.microsoft.com/download/dotnet-framework)
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
+- [The .NET Foundation Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct)
 
 ### Editors
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
