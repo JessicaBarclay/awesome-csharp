@@ -106,3 +106,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments.
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+- [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming
