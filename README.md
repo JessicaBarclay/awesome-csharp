@@ -58,7 +58,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
-- [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language/)
+- [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language)
+- [ReactiveUI Blog](https://www.reactiveui.net/blog/)
 
 ### Platforms
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
