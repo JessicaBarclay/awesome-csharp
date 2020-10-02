@@ -113,3 +113,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [NLog](https://github.com/NLog/NLog) - Advanced and Structured Logging for Various .NET Platforms.
 - [Serilog](https://github.com/serilog/serilog) - Easy to set up, diagnostic logging library for .NET applications.
 - [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tooling for APIs built with ASP.NET Core. Generate beautiful API documentation.
