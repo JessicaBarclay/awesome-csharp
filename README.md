@@ -115,3 +115,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tooling for APIs built with ASP.NET Core. Generate beautiful API documentation.
 - [Akka.NET](https://github.com/akkadotnet/akka.net) - A professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET.
+- [protobuf-net](https://github.com/protobuf-net/protobuf-net) - A contract based serializer for .NET code, that happens to write data in the "protocol buffers" serialization format engineered by Google.
