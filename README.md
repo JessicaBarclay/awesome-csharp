@@ -117,3 +117,4 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Akka.NET](https://github.com/akkadotnet/akka.net) - A professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET.
 - [protobuf-net](https://github.com/protobuf-net/protobuf-net) - A contract based serializer for .NET code, that happens to write data in the "protocol buffers" serialization format engineered by Google.
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)- Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+- [NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
