@@ -119,3 +119,5 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)- Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 - [NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - [DotNetty](https://github.com/Azure/DotNetty) - A port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
+- [Spectre.Console](https://github.com/spectreconsole/spectre.console) - A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
+It is heavily inspired by the excellent Rich library for Python.
