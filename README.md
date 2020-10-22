@@ -121,3 +121,5 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [DotNetty](https://github.com/Azure/DotNetty) - A port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) - A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
 It is heavily inspired by the excellent Rich library for Python.
+- [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
+- [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
