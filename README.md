@@ -46,6 +46,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
+- [MonoDevelop](https://github.com/mono/monodevelop) - A cross platform .NET IDE.
 
 ### Learn
 - [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
