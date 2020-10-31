@@ -125,3 +125,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
 - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
 - [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework.
+- [SkiaSharp](https://github.com/mono/SkiaSharp) - Cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
