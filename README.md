@@ -128,3 +128,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework.
 - [SkiaSharp](https://github.com/mono/SkiaSharp) - Cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
 - [MongoDB C# Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB.
+- [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET.
