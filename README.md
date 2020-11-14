@@ -130,3 +130,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [MongoDB C# Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB.
 - [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET.
 - [Chromely](https://github.com/chromelyapps/Chromely) - Lightweight alternative to Electron.NET, Electron for .NET/.NET Core developers.
+- [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime.
