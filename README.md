@@ -131,3 +131,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET.
 - [Chromely](https://github.com/chromelyapps/Chromely) - Lightweight alternative to Electron.NET, Electron for .NET/.NET Core developers.
 - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime.
+- [pythonnet](https://github.com/pythonnet/pythonnet) - Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
