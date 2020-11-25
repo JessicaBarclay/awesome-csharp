@@ -133,3 +133,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime.
 - [pythonnet](https://github.com/pythonnet/pythonnet) - Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
 - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) - An opensource numerical library for .Net, Silverlight and Mono.
+- [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism.
