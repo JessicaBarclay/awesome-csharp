@@ -135,3 +135,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) - An opensource numerical library for .Net, Silverlight and Mono.
 - [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [Ninject](https://github.com/ninject/Ninject) - A lightning-fast, ultra-lightweight dependency injector for .NET applications.
+- [Autofac](https://github.com/autofac/Autofac) - An IoC container for Microsoft .NET. Autofac manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.
