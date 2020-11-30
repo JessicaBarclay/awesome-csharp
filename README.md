@@ -41,6 +41,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
     - [.NET 4.6.1 and Above](https://dotnet.microsoft.com/download/dotnet-framework)
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
 - [The .NET Foundation Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct)
+- [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
 
 ### Editors
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
@@ -103,6 +104,7 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple .NET REST Client.
 - [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
+- [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET.
 - [AWS SDK for .NET](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.
 - [ML.NET](https://github.com/dotnet/machinelearning) - Open source and cross-platform machine learning framework for .NET.
 - [Orleans](https://github.com/dotnet/orleans) - Cross-platform framework for building distributed applications with .NET.
