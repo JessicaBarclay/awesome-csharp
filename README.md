@@ -139,3 +139,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [Ninject](https://github.com/ninject/Ninject) - A lightning-fast, ultra-lightweight dependency injector for .NET applications.
 - [Autofac](https://github.com/autofac/Autofac) - An IoC container for Microsoft .NET. Autofac manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.
+- [AutoFixture](https://github.com/AutoFixture/AutoFixture) - A library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. 
