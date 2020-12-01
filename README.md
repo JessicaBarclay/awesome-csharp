@@ -89,6 +89,7 @@ Framework.
 - [Scrutor](https://github.com/khellang/Scrutor)Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
 - [GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet) - An implementation of Facebook's GraphQL in .NET.
+- [ChilliCream GraphQL Platform](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .NET.
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - A .NET port of the official Node.JS Puppeteer API.
 - [Noda Time](https://github.com/nodatime/nodatime) - An alternative date and time API for .NET.
 - [Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.
