@@ -97,7 +97,8 @@ Framework.
 Automated job scheduler with fluent interface for the .NET platform.
 - [Heroku .NET Core Buildpack](https://github.com/jincod/dotnetcore-buildpack) - The Buildpack supports C# and F# projects.to
 - [Reaqtor](https://github.com/reaqtive/reaqtor) - a framework for reliable, stateful, distributed, and scalable event processing based on Reactive Extensions (Rx).
-- [Shouldy](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+- [Shouldy](https://github.com/shouldly/shouldly) - Assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+- [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests.
 - [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET.
 - [Polly](https://github.com/App-vNext/Polly) - Express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 - [Coyote](https://github.com/microsoft/coyote) - A tool designed to help ensure that your C# code is free of annoying concurrency bugs.
