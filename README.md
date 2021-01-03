@@ -58,6 +58,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 - [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 - [Samples for ASP.NET Core 5.0 (335)](https://github.com/dodyg/practical-aspnetcore)
+- [Try .NET](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
