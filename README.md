@@ -65,6 +65,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language)
 - [ReactiveUI Blog](https://www.reactiveui.net/blog/)
 - [Mono news](https://www.mono-project.com/news/)
+- [ReactJS.NET Blog](https://reactjs.net/blog/)
 
 ### Platforms
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
