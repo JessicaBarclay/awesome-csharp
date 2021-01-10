@@ -144,4 +144,5 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Autofac](https://github.com/autofac/Autofac) - An IoC container for Microsoft .NET. Autofac manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.
 - [AutoFixture](https://github.com/AutoFixture/AutoFixture) - A library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability.
 - [Npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL.
-- [Cosmos](https://github.com/CosmosOS/Cosmos) - an operating system "construction kit". Build your own OS using C#!
+- [Cosmos](https://github.com/CosmosOS/Cosmos) - An operating system "construction kit". Build your own OS using C#!
+- [React.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
