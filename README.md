@@ -147,3 +147,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL.
 - [Cosmos](https://github.com/CosmosOS/Cosmos) - An operating system "construction kit". Build your own OS using C#!
 - [React.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
+- [Octokit](https://github.com/octokit/octokit.net) - Octokit is a client library targeting .NET Framework 4.6 or greater and .NET Standard 2.0 and above that provides an easy way to interact with the GitHub API.
