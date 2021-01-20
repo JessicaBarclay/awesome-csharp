@@ -151,3 +151,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Octokit](https://github.com/octokit/octokit.net) - Octokit is a client library targeting .NET Framework 4.6 or greater and .NET Standard 2.0 and above that provides an easy way to interact with the GitHub API.
 - [Xamarin.iOS & Xamarin.Mac](https://github.com/xamarin/xamarin-macios) - SDKs that allow us to create native iOS, tvOS, watchOS and macOS applications using the same UI controls we would in Objective-C and Xcode, except with the flexibility and elegance of C#.
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Quickly build native apps for iOS, Android, Windows and macOS, completely in C#.
+- [Xamarin.Android](https://github.com/xamarin/xamarin-android) - Open-source bindings of the Android SDK for use with .NET managed languages such as C#.
