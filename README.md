@@ -42,6 +42,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
 - [The .NET Foundation Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct)
 - [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
+- [Xamarin](https://dotnet.microsoft.com/apps/xamarin) An app platform for building Android and iOS apps with .NET and C#.
 
 ### Editors
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
