@@ -152,3 +152,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Xamarin.iOS & Xamarin.Mac](https://github.com/xamarin/xamarin-macios) - SDKs that allow us to create native iOS, tvOS, watchOS and macOS applications using the same UI controls we would in Objective-C and Xcode, except with the flexibility and elegance of C#.
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Quickly build native apps for iOS, Android, Windows and macOS, completely in C#.
 - [Xamarin.Android](https://github.com/xamarin/xamarin-android) - Open-source bindings of the Android SDK for use with .NET managed languages such as C#.
+- [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
