@@ -53,8 +53,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [MonoDevelop](https://github.com/mono/monodevelop) - A cross platform .NET IDE.
 
 ### Learn
-- [Codecademy](https://www.codecademy.com/learn/learn-c-sharp)
-- [Exercism C# Track](https://github.com/exercism/csharp)
+- [Codecademy](https://www.codecademy.com/learn/learn-c-sharp) - In this course, you’ll be exposed to fundamental programming concepts using C# and start writing programs right away.
+- [Exercism C# Track](https://github.com/exercism/csharp) - Join other students on the Exercism C# track.
 - [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
 - [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
