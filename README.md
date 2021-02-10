@@ -153,3 +153,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Quickly build native apps for iOS, Android, Windows and macOS, completely in C#.
 - [Xamarin.Android](https://github.com/xamarin/xamarin-android) - Open-source bindings of the Android SDK for use with .NET managed languages such as C#.
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+- [Couchbase .NET SDK](https://github.com/couchbase/couchbase-net-client) - The official Couchbase SDK for .NET Core and Full Frameworks.
