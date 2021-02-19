@@ -35,7 +35,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 ### Documentation
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Official repository for C# language](https://github.com/dotnet/csharplang)
-- [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)dot-net/)
+- [ASP.NET Documentation](https://docs.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-5.0)
     - [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
     - [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
     - [.NET 4.6.1 and Above](https://dotnet.microsoft.com/download/dotnet-framework)
