@@ -60,7 +60,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - 📚 📈 Plug-and-play class-library project of standard Data Structures and Algorithms in C#.
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2021.
 - [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet) - Free courses, tutorials, videos, and more about machine learning with ML.NET.
-- [Samples for ASP.NET Core 5.0 (335)](https://github.com/dodyg/practical-aspnetcore)
+- [Samples for ASP.NET Core 5.0](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 5 projects you can use.
 - [Try .NET](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [SharpLab](https://sharplab.io/) - .NET language playground.
 - [KoduGameLab](https://github.com/microsoft/KoduGameLab) - 3D game development tool for teaching basic programming concepts to kids.
