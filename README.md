@@ -158,3 +158,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - A BDD solution for .NET. It provides test automation for .NET (.NET Framework, .NET Core and Mono), based on the Gherkin specification language and integrates to Visual Studio.
 - [FluentFTP](https://github.com/robinrodricks/FluentFTP) - FluentFTP is a fully managed FTP and FTPS library for .NET & .NET Standard, optimized for speed.
 - [.NET for Apache® Spark™](https://github.com/dotnet/spark) - .NET for Apache Spark provides high performance APIs for using Apache Spark from C# and F#.
+- [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
