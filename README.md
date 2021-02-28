@@ -159,3 +159,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [FluentFTP](https://github.com/robinrodricks/FluentFTP) - FluentFTP is a fully managed FTP and FTPS library for .NET & .NET Standard, optimized for speed.
 - [.NET for Apache® Spark™](https://github.com/dotnet/spark) - .NET for Apache Spark provides high performance APIs for using Apache Spark from C# and F#.
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
+- [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
