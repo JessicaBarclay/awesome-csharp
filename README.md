@@ -161,3 +161,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
 - [NUnit](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
+- [moq](https://github.com/moq/moq4) - Moq is a mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions.
