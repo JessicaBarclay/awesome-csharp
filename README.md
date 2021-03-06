@@ -47,7 +47,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 ### Editors
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio)
-    - [NCrunch](https://www.ncrunch.net/) - Live Testing Tool for .NET
+    - [ReSharper](https://www.jetbrains.com/resharper/)
+    - [NCrunch](https://www.ncrunch.net/) - Live Testing Tool for .NET.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme)
 - [MonoDevelop](https://github.com/mono/monodevelop) - A cross platform .NET IDE.
 
