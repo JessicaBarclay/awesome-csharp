@@ -165,3 +165,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
 - [moq](https://github.com/moq/moq4) - Moq is a mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions.
 - [NEventStore](https://github.com/NEventStore/NEventStore) - A persistence agnostic Event Store for .NET.
+- [RabbitMQ .NET client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - source code of the RabbitMQ .NET client. The client is maintained by the RabbitMQ team at VMware.
