@@ -169,3 +169,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [RabbitMQ .NET client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - source code of the RabbitMQ .NET client. The client is maintained by the RabbitMQ team at VMware.
 - [YamlDotNet](https://github.com/aaubry/YamlDotNet) - Low level parsing and emitting of YAML as well as a high level object model similar to XmlDocument. A serialization library is also included that allows to read and write objects from and to YAML streams.
 - [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API. This library allows you to interact with Docker Remote API endpoints in your .NET applications.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
