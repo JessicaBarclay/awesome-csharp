@@ -57,7 +57,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Exercism C# Track](https://github.com/exercism/csharp)
 - [Clean code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
 - [Free books on C# programming](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-sharp)
-- [C# ALGORITHMS](https://github.com/aalhour/C-Sharp-Algorithms)
+- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
 - [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 - [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 - [Samples for ASP.NET Core 5.0 (335)](https://github.com/dodyg/practical-aspnetcore)
