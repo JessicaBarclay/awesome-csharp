@@ -172,3 +172,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - .NET (C#) Client Library for Docker API. This library allows you to interact with Docker Remote API endpoints in your .NET applications.
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [Stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code.
+- [Brighter](https://github.com/BrighterCommand/Brighter) - A Command Dispatcher and Command Processor. It can be used with an in-memory bus, or for interoperability in a microservices architecture, out of process via a wider range of middleware transports.
