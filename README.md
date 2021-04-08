@@ -64,6 +64,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Try .NET](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [SharpLab](https://sharplab.io/) - .NET language playground.
 - [KoduGameLab](https://github.com/microsoft/KoduGameLab) - 3D game development tool for teaching basic programming concepts to kids.
+- [Clean Architecture with .NET Core & React+Redux](https://github.com/ivanpaulovich/clean-architecture-manga) - Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built by small components that are developed and tested in isolation.
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
