@@ -65,6 +65,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [SharpLab](https://sharplab.io/) - .NET language playground.
 - [KoduGameLab](https://github.com/microsoft/KoduGameLab) - 3D game development tool for teaching basic programming concepts to kids.
 - [Clean Architecture with .NET Core & React+Redux](https://github.com/ivanpaulovich/clean-architecture-manga) - Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built by small components that are developed and tested in isolation.
+- [The Algorithms C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - This repository contains algorithms and data structures implemented in C# for educational purposes.
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
