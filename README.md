@@ -176,4 +176,5 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code.
 - [Brighter](https://github.com/BrighterCommand/Brighter) - A Command Dispatcher and Command Processor. It can be used with an in-memory bus, or for interoperability in a microservices architecture, out of process via a wider range of middleware transports.
 - [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
-- [Command Line Parser Library](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands. 
+- [Command Line Parser Library](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.
+- [scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
