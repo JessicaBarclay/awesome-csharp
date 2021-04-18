@@ -178,3 +178,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
 - [Command Line Parser Library](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.
 - [scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
+- [SharpCompress](https://github.com/adamhathcock/sharpcompress) - A fully managed C# library to deal with many compression types and formats.
