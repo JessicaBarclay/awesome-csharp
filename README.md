@@ -179,3 +179,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Command Line Parser Library](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.
 - [scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress) - A fully managed C# library to deal with many compression types and formats.
+- [StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
