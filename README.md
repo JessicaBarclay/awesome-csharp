@@ -180,3 +180,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress) - A fully managed C# library to deal with many compression types and formats.
 - [StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
+- [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform.
