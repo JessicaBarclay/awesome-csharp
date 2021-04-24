@@ -181,3 +181,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress) - A fully managed C# library to deal with many compression types and formats.
 - [StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
 - [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform.
+- [LazyCache](https://github.com/alastairtree/LazyCache) - A simple in-memory caching service. It has a developer friendly generics based API, and provides a thread safe cache implementation that guarantees to only execute your cachable delegates once (it's lazy!).
