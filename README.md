@@ -184,3 +184,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform.
 - [LazyCache](https://github.com/alastairtree/LazyCache) - A simple in-memory caching service. It has a developer friendly generics based API, and provides a thread safe cache implementation that guarantees to only execute your cachable delegates once (it's lazy!).
 - [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
+- [Lean](https://github.com/QuantConnect/Lean) - An open-source algorithmic trading engine built for easy strategy research, backtesting and live trading. We integrate with common data providers and brokerages so you can quickly deploy algorithmic trading strategies.
