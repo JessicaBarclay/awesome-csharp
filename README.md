@@ -68,6 +68,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-rosly
 - [The Algorithms C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - This repository contains algorithms and data structures implemented in C# for educational purposes.
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero/wiki/Summary) - *"Programming is hard only until you practice it (like any other skill)."*
 - [LINQPad](https://www.linqpad.net/)- The Ultimate Scratchpad for C#, F# and VB.
+- [dotnetfiddle](https://dotnetfiddle.net/) - C# Online Compiler.
+
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language)
