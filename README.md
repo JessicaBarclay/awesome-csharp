@@ -86,7 +86,7 @@ Framework.
 
 ### Libraries
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor) - A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [Json.Net](https://www.newtonsoft.com/json)
+- [Json.Net](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [Workflow Core](https://github.com/danielgerlag/workflow-core) - A light weight embeddable workflow engine.
 - [CodeFormatter](https://github.com/dotnet/codeformatter) - A tool that uses Roslyn to automatically rewrite the source to follow our coding styles.
 - [try-convert](https://github.com/dotnet/try-convert) - This is a simple tool that will help in migrating .NET Framework projects to .NET Core.
