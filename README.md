@@ -15,7 +15,7 @@ A curated list of awesome [C#](https://github.com/dotnet/csharplang) tutorials, 
 
 > C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core), [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) and [awesome](https://github.com/sindresorhus/awesome).
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) and [awesome](https://github.com/sindresorhus/awesome).
 </div>
 
 ## Contents
@@ -76,10 +76,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [ReactJS.NET Blog](https://reactjs.net/blog/)
 
 ### Platforms
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
+- [.NET](https://dotnet.microsoft.com/)
     - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
     - [.NET Runtime](https://github.com/dotnet/runtime/)
-- [.NET Core](https://github.com/thangchung/awesome-dotnet-core#readme)  
     - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
 - [Mono](https://github.com/mono/mono) - An open source implementation of Microsoft's .NET 
 Framework.
