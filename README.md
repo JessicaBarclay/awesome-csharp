@@ -76,4 +76,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 - [Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - About
 Automated job scheduler with fluent interface for the .NET platform.
-- [Heroku .NET Core Buildpack](https://github.com/jincod/dotnetcore-buildpack) - The Buildpack supports C# and F# projects.
+- [Heroku .NET Core Buildpack](https://github.com/jincod/dotnetcore-buildpack) - The Buildpack supports C# and F# projects.to
+- [Reaqtor](https://github.com/reaqtive/reaqtor) - a framework for reliable, stateful, distributed, and scalable event processing based on Reactive Extensions (Rx).
