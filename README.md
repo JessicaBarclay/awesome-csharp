@@ -75,6 +75,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-rosly
 - [Mono news](https://www.mono-project.com/news/)
 - [ReactJS.NET Blog](https://reactjs.net/blog/)
 - [Don't Code Tired | Jason Roberts](http://dontcodetired.com/blog/) - Jason Roberts is a former 5-time Microsoft .NET MVP, freelance developer, writer, and Pluralsight course author.
+- [Khalid Abuhakmeh's Blog](https://khalidabuhakmeh.com/) - *"I’m an experienced software developer with over a decade (I’ve honestly stopped counting) focusing on Microsoft .NET technologies, primarily dedicating a disproportionate amount brain cells to ASP.NET and the web."*
 
 ### Platforms
 - [.NET](https://dotnet.microsoft.com/)
