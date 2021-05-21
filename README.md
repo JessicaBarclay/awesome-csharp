@@ -22,7 +22,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-rosly
 
 [Documentation](#documentation)
 <br/>
-[Editors](#editors)
+[IDE](#ide)
 <br/>
 [Learn](#learn)
 <br/>
@@ -44,7 +44,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-rosly
 - [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) An app platform for building Android and iOS apps with .NET and C#.
 
-### Editors
+### IDE
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio) - A curated list of awesomeness for Visual Studio IDE.
     - [ReSharper](https://www.jetbrains.com/resharper/) - The Visual Studio Extension for .NET Developers.
@@ -67,7 +67,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-rosly
 - [Clean Architecture with .NET Core & React+Redux](https://github.com/ivanpaulovich/clean-architecture-manga) - Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as central organizing structure, decoupled from frameworks and technology details. Built by small components that are developed and tested in isolation.
 - [The Algorithms C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - This repository contains algorithms and data structures implemented in C# for educational purposes.
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero/wiki/Summary) - *"Programming is hard only until you practice it (like any other skill)."*
-
+- [LINQPad](https://www.linqpad.net/)- The Ultimate Scratchpad for C#, F# and VB.
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language)
