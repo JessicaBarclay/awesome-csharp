@@ -30,7 +30,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 <br/>
 [Platforms](#platforms)
 <br/>
-[Libraries](#Libraries)
+[Libraries](#libraries)
+<br/>
+[Cheat sheets](#cheat-sheets)
 
 ### Documentation
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -190,3 +192,6 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Lean](https://github.com/QuantConnect/Lean) - An open-source algorithmic trading engine built for easy strategy research, backtesting and live trading. We integrate with common data providers and brokerages so you can quickly deploy algorithmic trading strategies.
 - [ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - C# port of ConvNetJS. You can use ConvNetSharp to train and evaluate convolutional neural networks (CNN).
 - [Jwt.Net](https://github.com/jwt-dotnet/jwt) - A JWT (JSON Web Token) implementation for .NET
+
+## Cheat sheets
+- [C# 9.0 Cheat sheet](https://github.com/alugili/CSharp-9-CheatSheet/blob/main/CSharp_9_CheatSheet.pdf)
