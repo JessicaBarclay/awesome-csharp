@@ -45,6 +45,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 - [The .NET Foundation Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct)
 - [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) An app platform for building Android and iOS apps with .NET and C#.
+- [C# Language Feature Status](https://github.com/dotnet/roslyn/blob/main/docs/Language%20Feature%20Status.md) - This document reflects the status, and planned work in progress, for the compiler team. It is a live document and will be updated as work progresses, features are added / removed, and as work on feature progresses.
 
 ### IDE
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
