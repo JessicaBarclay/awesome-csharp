@@ -75,6 +75,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
+- [Official ASP.NET Blog](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET extends the .NET developer platform with tools and libraries specifically for building web apps.
 - [AWS .NET Developer Blog](https://aws.amazon.com/blogs/developer/category/programing-language)
 - [ReactiveUI Blog](https://www.reactiveui.net/blog/)
 - [Mono news](https://www.mono-project.com/news/)
