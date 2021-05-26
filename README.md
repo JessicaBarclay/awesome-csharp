@@ -26,13 +26,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 <br/>
 [Learn](#learn)
 <br/>
+[Cheat sheets](#cheat-sheets)
+<br/>
 [Blogs](#blogs)
 <br/>
 [Platforms](#platforms)
 <br/>
 [Libraries](#libraries)
-<br/>
-[Cheat sheets](#cheat-sheets)
 
 ### Documentation
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -72,6 +72,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero/wiki/Summary) - *"Programming is hard only until you practice it (like any other skill)."*
 - [LINQPad](https://www.linqpad.net/)- The Ultimate Scratchpad for C#, F# and VB.
 - [dotnetfiddle](https://dotnetfiddle.net/) - C# Online Compiler.
+
+## Cheat sheets
+- [C# 9.0 Cheat sheet](https://github.com/alugili/CSharp-9-CheatSheet/blob/main/CSharp_9_CheatSheet.pdf)
 
 ### Blogs
 - [Official .NET Blog](https://devblogs.microsoft.com/dotnet/)
@@ -194,7 +197,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
 - [Lean](https://github.com/QuantConnect/Lean) - An open-source algorithmic trading engine built for easy strategy research, backtesting and live trading. We integrate with common data providers and brokerages so you can quickly deploy algorithmic trading strategies.
 - [ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - C# port of ConvNetJS. You can use ConvNetSharp to train and evaluate convolutional neural networks (CNN).
-- [Jwt.Net](https://github.com/jwt-dotnet/jwt) - A JWT (JSON Web Token) implementation for .NET
-
-## Cheat sheets
-- [C# 9.0 Cheat sheet](https://github.com/alugili/CSharp-9-CheatSheet/blob/main/CSharp_9_CheatSheet.pdf)
+- [Jwt.Net](https://github.com/jwt-dotnet/jwt) - A JWT (JSON Web Token) implementation for .NET.
