@@ -198,3 +198,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Lean](https://github.com/QuantConnect/Lean) - An open-source algorithmic trading engine built for easy strategy research, backtesting and live trading. We integrate with common data providers and brokerages so you can quickly deploy algorithmic trading strategies.
 - [ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - C# port of ConvNetJS. You can use ConvNetSharp to train and evaluate convolutional neural networks (CNN).
 - [Jwt.Net](https://github.com/jwt-dotnet/jwt) - A JWT (JSON Web Token) implementation for .NET.
+- [Tye](https://github.com/dotnet/tye) - A tool that makes developing, testing, and deploying microservices and distributed applications easier.
