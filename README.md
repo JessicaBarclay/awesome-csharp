@@ -42,6 +42,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
     - [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
     - [.NET 4.6.1 and Above](https://dotnet.microsoft.com/download/dotnet-framework)
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
+- [Building AWS Lambda functions with C#](https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html)
 - [The .NET Foundation Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct)
 - [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) An app platform for building Android and iOS apps with .NET and C#.
