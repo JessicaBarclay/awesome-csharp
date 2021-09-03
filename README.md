@@ -87,6 +87,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fshar
 - [Don't Code Tired | Jason Roberts](http://dontcodetired.com/blog/) - Jason Roberts is a former 5-time Microsoft .NET MVP, freelance developer, writer, and Pluralsight course author.
 - [Khalid Abuhakmeh's Blog](https://khalidabuhakmeh.com/) - *"I’m an experienced software developer with over a decade (I’ve honestly stopped counting) focusing on Microsoft .NET technologies, primarily dedicating a disproportionate amount brain cells to ASP.NET and the web."*
 - [The Morning Brew](http://blog.cwa.me.uk/) - A daily link blog covering all aspects of the Microsoft Development World, published every working week day.
+- [Know Your Toolset](https://knowyourtoolset.com/) - A blog centered around ASP.NET and development tools such as Docker written by Pluralsight Author Erik Dahl.
 
 ### Platforms
 - [.NET](https://dotnet.microsoft.com/)
