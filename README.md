@@ -204,3 +204,4 @@ It is heavily inspired by the excellent Rich library for Python.
     - [Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/)
 - [AspLabs](https://github.com/aspnet/AspLabs) - Repo for ASP.NET experiments that are not ready for a production release.
 - [IronPDF](https://ironpdf.com/) - C# PDF Library that prioritizes accuracy, ease of use, and speed.
+- [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
