@@ -102,6 +102,7 @@ Framework.
 - [Codez](https://github.com/khalidabuhakmeh/codez) - A library designed to help ease the process of generating codes for your end users that can be helpful for confirmation numbers, reservation systems, error codes, and more.
 - [Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner library for .NET Core/Standard.
 - [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.
+- [Vedika API](https://vedika.io) - REST API for Vedic astrology calculations and AI-powered astrological insights in C# applications. Provides birth chart generation, horoscope, panchang, dasha calculations, kundali matching, numerology, and AI chatbot with 22 language support **[Paid]**
 - [JustSaying](https://github.com/justeat/JustSaying) - A helpful library for publishing and consuming events/messages over SNS (SNS / SQS as a message bus).
 - [Scrutor](https://github.com/khellang/Scrutor)Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - StackExchange.Redis is a high-performance general-purpose Redis client for .NET languages.
