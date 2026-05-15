@@ -201,3 +201,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [IronPDF](https://ironpdf.com/) - C# PDF Library that prioritizes accuracy, ease of use, and speed.
 - [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
 - [fluent-cms](https://github.com/fluent-cms/fluent-cms) - RESTful CRUD (Create, Read, Update, Delete) APIs, Admin Panel web pages, a GraphQL-style query designer and a WYSIWYG web page designer, all fully configurable without writing code.
+- [DynamicWhere.ex](https://github.com/Sajadh92/DynamicWhere.ex) - JSON-driven dynamic query builder for Entity Framework Core. Filter, sort, paginate, project, group, aggregate, and run UNION/INTERSECT/EXCEPT from a JSON body. .NET 6/7/8/9. [Docs](https://doc.dynamicwhere.com)
