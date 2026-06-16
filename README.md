@@ -201,3 +201,4 @@ It is heavily inspired by the excellent Rich library for Python.
 - [IronPDF](https://ironpdf.com/) - C# PDF Library that prioritizes accuracy, ease of use, and speed.
 - [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
 - [fluent-cms](https://github.com/fluent-cms/fluent-cms) - RESTful CRUD (Create, Read, Update, Delete) APIs, Admin Panel web pages, a GraphQL-style query designer and a WYSIWYG web page designer, all fully configurable without writing code.
+- [GoogleMapsApi](https://github.com/maximn/google-maps) - Strongly-typed, async .NET wrapper for the Google Maps web service APIs (Geocoding, Routes, Distance Matrix, Places, Elevation, Time Zone, and more).
