@@ -44,6 +44,7 @@
 
 ### 💻 IDE
 - [Rider](https://www.jetbrains.com/rider/) - A fast & powerful cross-platform .NET IDE.
+    - [Explyt](https://github.com/explyt/explyt) - AI agent plugin for JetBrains Rider with debugger, refactorings, and symbol navigation.
 - [Visual Studio](https://github.com/egeerardyn/awesome-visual-studio) - A curated list of awesomeness for Visual Studio IDE.
     - [ReSharper](https://www.jetbrains.com/resharper/) - The Visual Studio Extension for .NET Developers.
     - [NCrunch](https://www.ncrunch.net/) - Live Testing Tool for .NET.
