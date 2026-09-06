@@ -67,6 +67,7 @@
 - [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero/wiki/Summary) - *"Programming is hard only until you practice it (like any other skill)."*
 - [LINQPad](https://www.linqpad.net/)- The Ultimate Scratchpad for C#, F# and VB.
 - [dotnetfiddle](https://dotnetfiddle.net/) - C# Online Compiler.
+- [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool) - Free C# and LINQ scratchpad for VS Code that lets you use your project's code with autocomplete and debugging.
 
 ## 🗒️ Cheatsheets
 - [C# 9.0 Cheat sheet](https://github.com/alugili/CSharp-9-CheatSheet/blob/main/CSharp_9_CheatSheet.pdf)
