@@ -85,6 +85,7 @@
 
 ### 🌐 Platforms
 - [.NET](https://dotnet.microsoft.com/)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
     - [Roslyn](https://github.com/dotnet/roslyn) - The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.
     - [.NET Runtime](https://github.com/dotnet/runtime/)
     - [.NET Core SDK](https://github.com/dotnet/installer) - The source code for the cross-platform .NET Core SDK.
