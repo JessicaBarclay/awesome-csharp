@@ -155,6 +155,7 @@ It is heavily inspired by the excellent Rich library for Python.
 - [Chromely](https://github.com/chromelyapps/Chromely) - Lightweight alternative to Electron.NET, Electron for .NET/.NET Core developers.
 - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime.
 - [pythonnet](https://github.com/pythonnet/pythonnet) - Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
+- [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) - A C# library for memory-efficient estimation of distinct element counts using HyperLogLog.
 - [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) - An open-source numerical library for .Net, Silverlight and Mono.
 - [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [Ninject](https://github.com/ninject/Ninject) - A lightning-fast, ultra-lightweight dependency injector for .NET applications.
