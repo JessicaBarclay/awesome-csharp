@@ -124,6 +124,7 @@ Automated job scheduler with fluent interface for the .NET platform.
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A general-purpose application framework specially designed for new modern web applications.
 - [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple .NET REST Client.
+- [WebDAVClient](https://github.com/saguiitay/WebDAVClient) - A C# library for browsing WebDAV storage and uploading, downloading, copying, moving and deleting remote files.
 - [LocalStack .Net Client](https://github.com/localstack-dotnet/localstack-dotnet-client) - This is an easy-to-use .NET client for LocalStack.
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET.
 - [AWS SDK for .NET](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.
